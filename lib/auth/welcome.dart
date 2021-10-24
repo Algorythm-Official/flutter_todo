@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:fluttertodo/services/functions.dart';
+import 'package:fluttertodo/services/authFunctions.dart';
 
 class Welcome extends StatefulWidget {
   const Welcome({Key? key}) : super(key: key);
